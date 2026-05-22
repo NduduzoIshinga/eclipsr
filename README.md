@@ -89,8 +89,6 @@ If you are (going to be) working on new or improved features, I would love to he
 
 ## Contact
 
-For questions and suggestions, please contact:
+For questions and suggestions, please open a GitHub issue.
 
-* luc.ijspeert(at)kuleuven.be
-
-**Developer:** Luc IJspeert (KU Leuven)
+**Developer:** Luc IJspeert (while at KU Leuven)
